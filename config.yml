@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: http://radfriedrich.github.io
 theme: pure
 title: Pure theme for Hugo
 defaultContentLanguage: en  # en/zh/...
